@@ -1,0 +1,5 @@
+# Created a JS calculator with the help of Javascript and HTML
+# for styling the area of calculator used <style> tag 
+# for calculation the mathmetical operation used Javascript
+# as Unable to write text on above input field so write text area inside the input box.
+# also used bootstrap a bit.
